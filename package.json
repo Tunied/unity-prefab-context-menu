@@ -1,0 +1,21 @@
+{
+  "name": "com.oldking.prefab-context-menu",
+  "version": "1.0.0",
+  "displayName": "Prefab Context Menu",
+  "description": "Hierarchy / Project 右键菜单增强：在 Project 窗口定位 Prefab，并把精简的 Prefab 信息（资源路径 + GUID）复制到剪贴板，方便直接发给 AI。",
+  "unity": "2020.3",
+  "keywords": [
+    "prefab",
+    "context-menu",
+    "editor",
+    "workflow",
+    "ai"
+  ],
+  "author": {
+    "name": "OldKingStudio",
+    "url": "https://github.com/Tunied"
+  },
+  "documentationUrl": "https://github.com/Tunied/unity-prefab-context-menu#readme",
+  "licensesUrl": "https://github.com/Tunied/unity-prefab-context-menu/blob/main/LICENSE",
+  "hideInEditor": false
+}
